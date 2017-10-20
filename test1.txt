@@ -1,2 +1,3 @@
 Updating in local
 Update local before rebase
+Another conflicting change on Server
