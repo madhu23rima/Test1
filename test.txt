@@ -9,3 +9,4 @@ Test8
 Test9
 Before rebase remote
 Before rebase remote
+Problematic change in local
